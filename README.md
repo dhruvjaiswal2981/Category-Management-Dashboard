@@ -63,6 +63,29 @@
 
 - Error Handling: User-friendly error handling and validation.
 
+## 📸 Screenshots
+
+### 1. 🔐 Signup Page  
+![Signup Page](screenshots/signup.png)
+
+---
+
+### 2. 🔐 Login Page  
+![Login Page](screenshots/login.PNG)
+
+---
+
+### 3. 🏠 Dashboard  
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 4. ➕ Add Category  
+![Add Category](screenshots/add-category.PNG)
+
+---
+
+
 ## How to Run Locally
 
 - Steps:
@@ -142,41 +165,20 @@ npm run dev
         ```
     - PUT /categories/:id: Edit a category (authenticated).
 
-## 📸 Screenshots
-
-### 1. 🔐 Signup Page  
-![Signup Page](screenshots/signup.png)
-
----
-
-### 2. 🔐 Login Page  
-![Login Page](screenshots/login.PNG)
-
----
-
-### 3. 🏠 Dashboard  
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### 4. ➕ Add Category  
-![Add Category](screenshots/add-category.PNG)
-
----
 
 ## 🚀 Deployment
 
 - Backend Deployment
     - Live Demo: The application is hosted on Render
-    - Access it here: 
+    - Access it here: https://category-management-dashboard.onrender.com/api/
 
 - Frontend Deployment
     - Live Demo: The application is hosted on Netlify.
-    - Access it here: 
+    - Access it here: http://category-dashboard-management.netlify.app/
 
 ## Live Demo
 
-- Demo Video Link : 
+- Demo Video Link : https://drive.google.com/file/d/11yOKM1syq35vJMmsZhEk-lVnDu4barbY/view?usp=sharing
 
 ## 📌 Author
 
